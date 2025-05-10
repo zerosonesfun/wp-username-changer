@@ -1,2 +1,2 @@
-# wp-username-changer
-Let users change their username.
+# WP Username Changer
+Let WordPress users change their username.
