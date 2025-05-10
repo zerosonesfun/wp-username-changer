@@ -68,10 +68,6 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the GPL 3 License.
-
 ## Support
 
 If you encounter any issues or have questions, feel free to [open an issue](https://github.com/zerosonesfun/wp-username-changer/issues).
